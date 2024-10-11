@@ -27,12 +27,11 @@ This is so that if you wish to put quick reminders that have been piling up, you
      `python3 /PATH/TO/FILE/app.py`</br>
    - Function to run notes.py (run notes options)</br>
      `alias notes 'python3 /PATH/TO/FILE/notes.py'`</br>
-
-<subscript>(^You do not need the dashes above when adding to your config file^)</subscript></br>
->To apply changes do:</br>
->source <filename></br>
-
+>Keep in mind that you should have your version of python listed in the commands above </br>
 >If you aren't sure what shell you are running do:</br>
 >echo $SHELL</br>
+
+<subscript>(^You do not need the dashes above when adding to your config file^)</subscript></br>
+
 
 If you are running into any issues please contact me
