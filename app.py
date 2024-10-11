@@ -143,7 +143,7 @@ def remove_note():
 def notes_app():
     while True:
         display_calendar()
-        print("\nWelcome to the Notepad App")
+        print("\nWelcome to Terminal Notes")
         print("1. View Calendar")
         print("2. Add a Note")
         print("3. View a Note")
