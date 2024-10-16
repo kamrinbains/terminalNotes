@@ -12,8 +12,8 @@ year = now.year
 month = now.month
 
 # File to store the last run month
-LAST_RUN_FILE = "last_run_month.txt"
-NOTES_FILE = "notes.json"
+LAST_RUN_FILE = "$(PATH)/last_run_month.txt"
+NOTES_FILE = "$(PATH)/notes.json"
 
 # Set the TERM environment variable if not already set
 if 'TERM' not in os.environ:
